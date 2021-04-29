@@ -1,6 +1,6 @@
-# projectpertama
+# Desain Add Cart
 
-A new Flutter project.
+Desain Add Cart Menggunakan Flutter 
 
 ## Getting Started
 
